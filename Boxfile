@@ -1,7 +1,7 @@
 web1:
   shared_writable_dirs:
     - wp-content/uploads
-    - wp-content/themes/modernize_v2-09/style-custom.css
+    - wp-content/themes
   php_extensions:
     - mysql
     - gd
