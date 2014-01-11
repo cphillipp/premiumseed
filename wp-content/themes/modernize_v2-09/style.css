@@ -989,3 +989,5 @@ div.wpcf7 .ajax-loader{ display: none; }
 
 .rsswidget img { float: left; margin-right: 5px; margin-top: 4px; }
 
+/* CLAYMORE */
+div.wpcf7 p span.wpcf7-form-control-wrap input {margin-left:5px; width:300px; color: #888888; background-color: #ffffff; border: 1px solid #cfcfcf; -webkit-box-shadow: #ececec 0px 1px 4px inset, #f8f8f8 -5px -5px 0px 0px, #f8f8f8 5px 5px 0px 0px, #f8f8f8 5px 0px 0px 0px, #f8f8f8 0px 5px 0px 0px, #f8f8f8 5px -5px 0px 0px, #f8f8f8 -5px 5px 0px 0px; box-shadow: #ececec 0px 1px 4px inset, #f8f8f8 -5px -5px 0px 0px, #f8f8f8 5px 5px 0px 0px, #f8f8f8 5px 0px 0px 0px, #f8f8f8 0px 5px 0px 0px, #f8f8f8 5px -5px 0px 0px, #f8f8f8 -5px 5px 0px 0px;}

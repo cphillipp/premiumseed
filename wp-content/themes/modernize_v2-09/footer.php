@@ -38,7 +38,7 @@
 			<?php if( $gdl_show_copyright == 'enable' ){ ?>
 				<div class="copyright-wrapper">
 					<div class="copyright-left">
-						<?php echo do_shortcode( __(get_option(THEME_SHORT_NAME.'_copyright_left_area'), 'gdl_front_end') ); ?>
+						&copy; <?php echo date('Y'); ?> Premium Seed<!--</?php echo do_shortcode( __(get_option(THEME_SHORT_NAME.'_copyright_left_area'), 'gdl_front_end') ); ?>-->
 					</div> 
 					<div class="copyright-right">
 						<?php echo do_shortcode( __(get_option(THEME_SHORT_NAME.'_copyright_right_area'), 'gdl_front_end') ); ?>
